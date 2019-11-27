@@ -1,0 +1,1 @@
+nomoory-next-redux-boilerplate
